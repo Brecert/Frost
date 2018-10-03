@@ -17,6 +17,10 @@ Knot strengths include
 
 All of these slowly deteriorate and they all deteriorate based on each others values, not to mention the weight of to connection and so on.
 
+Knots aren't the only connector type, but I will use them as the main one for simplicity right now.
+
+Other types may include glue, magic, fusing, etc..
+
 Crafting saves the positions and levels of all connected items along with a random seed for future use.
 
 ## Forging
