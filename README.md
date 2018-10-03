@@ -32,3 +32,4 @@ The cost of a spell will be dependent on the nodes.
 
 Node costs can range from Mana to Materials or Durability, life or curses, anything really.
 
+Tag system.
